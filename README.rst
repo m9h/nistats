@@ -15,7 +15,7 @@ people, amongst which the INRIA Parietal Project Team and D'esposito lab at
 Berkeley.
 
 It is based on developments initiated in the nipy
-`nipy <http://nipy.org/nipy/stable>`_ project.
+`nipy <http://nipy.org/nipy/>`_ project.
 
 Important links
 ===============
